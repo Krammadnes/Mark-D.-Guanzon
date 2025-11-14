@@ -1,0 +1,5 @@
+{
+  "name": "CV Generator",
+  "description": "An application to generate and display a professional CV.",
+  "requestFramePermissions": []
+}
